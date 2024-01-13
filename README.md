@@ -3,8 +3,8 @@
   I'm a 21-year-old programmer from Spain, passionate about computer graphics 🌐 and video game 👾 development.
   
   I'm in my final year of Computer Engineering 🎓 and always on the lookout for projects that challenge my creativity and technical skills. I am fascinated by the idea of combining art 🎨 and technology 💻 to create immersive and exciting gaming experiences.
-  
 
+  ![bannerGithub2](https://github.com/JuanLorenteGuarnieri/JuanLorenteGuarnieri/assets/156027298/e1f37b48-7bf1-48f3-8e8e-ae14dfede62b)
 
 <h3 align="center">Languages and Tools:</h3>
 
