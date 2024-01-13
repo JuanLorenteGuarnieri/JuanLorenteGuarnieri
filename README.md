@@ -1,5 +1,12 @@
-### Hi there 👋
+### 👋 Hello! Welcome to my GitHub profile 👋
 
+  I'm a 21-year-old programmer from Spain, passionate about computer graphics 🌐 and video game 👾 development.
+  
+  I'm in my final year of Computer Engineering 🎓 and always on the lookout for projects that challenge my creativity and technical skills. I am fascinated by the idea of combining art 🎨 and technology 💻 to create immersive and exciting gaming experiences.
+
+  ![image](https://github.com/JuanLorenteGuarnieri/JuanLorenteGuarnieri/assets/156027298/ac00de30-fe5f-4964-9953-1f488d6d2720)
+
+  Here you'll find my work and collaborations, reflecting my enthusiasm 🚀 and dedication to learning and growing in this thrilling field. Let's create something amazing together! 
 <!--
 **JuanLorenteGuarnieri/JuanLorenteGuarnieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
