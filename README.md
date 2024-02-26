@@ -1,10 +1,18 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Juan Lorente</h1>
+<h1 align="center">Hi <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Juan Lorente</h1>
 
   I'm a 21-year-old programmer from Spain, passionate about computer graphics 🌐 and video game 👾 development.
   
   I'm in my final year of Computer Engineering 🎓 and always on the lookout for projects that challenge my creativity and technical skills. I am fascinated by the idea of combining art 🎨 and technology 💻 to create immersive and exciting gaming experiences.
 
   ![bannerGithub2](https://github.com/JuanLorenteGuarnieri/JuanLorenteGuarnieri/assets/156027298/e1f37b48-7bf1-48f3-8e8e-ae14dfede62b)
+
+<h3 align="center">To see all my projects visit my <a href="https://juanlorenteguarnieri.github.io/portfolio/" target="_blank" rel="noreferrer">portfolio</a>, enjoy it!</h3>
+
+<h3 align="center">
+  <a href="https://juanlorenteguarnieri.github.io/portfolio/" target="_blank" rel="noreferrer"> 
+    <img width="600" src="https://media.licdn.com/dms/image/D4D22AQGhGdaTjnmRlg/feedshare-shrink_800/0/1706488741928?e=1711584000&v=beta&t=Gylth3xBhGPQKiT9zH9NZH39bPdS6FUPWPmieaHmKAk">
+  </a> 
+</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
