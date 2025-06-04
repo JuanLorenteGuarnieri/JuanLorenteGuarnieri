@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Juan Lorente</h1>
 
-<h4 align="center">I'm a <strong><!-- AGE --></strong>-year-old developer from Spain, passionate about computer graphics 🌐 and computer vision 📷.</h4>
+<h4 align="center">I'm a <strong><!-- AGE -->22</strong>-year-old developer from Spain, passionate about computer graphics 🌐 and computer vision 📷.</h4>
 
 <h4 align="center">I enjoy learning by developing visual systems 🎥 from physically based renderers 🖼️ to real-time techniques ⏱️ and applications of machine learning 🤖 in these fields.</h4>
 
