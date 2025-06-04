@@ -1,5 +1,8 @@
 name: "Actualizar edad en README"
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: '0 0 * * *'   # se ejecuta cada día a medianoche UTC
