@@ -1,0 +1,49 @@
+name: "Actualizar edad en README"
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # se ejecuta cada día a medianoche UTC
+  workflow_dispatch:      # permite ejecución manual desde la pestaña Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Calcular edad y actualizar README
+
+    steps:
+      - name: '1) Checkout del repositorio'
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: '2) Configurar Git (autor de los cambios)'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: '3) Calcular edad actual (nacido en 2003)'
+        id: calc_age
+        run: |
+          birth_year=2003
+          current_year=$(date +"%Y")
+          age=$(( current_year - birth_year ))
+          echo "AGE=$age" >> $GITHUB_OUTPUT
+
+      - name: '4) Reemplazar placeholder en README.md'
+        run: |
+          age="${{ steps.calc_age.outputs.AGE }}"
+          sed -i -E "s/<!-- AGE -->([0-9]+)?/<!-- AGE -->$age/" README.md
+
+      - name: '5) Comprobar si README cambió'
+        id: check_diff
+        run: |
+          git diff --quiet || exit 1
+        continue-on-error: true
+
+      - name: '6) Commit y push si hubo cambios'
+        if: ${{ steps.check_diff.outcome == 'failure' }}
+        run: |
+          git add README.md
+          git commit -m "🔄 Actualizar edad en README (github-actions)"
+          git push
