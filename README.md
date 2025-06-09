@@ -18,9 +18,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  <a href="https://www.unrealengine.com/" target="_blank"> 
-    <img src="https://github.com/JuanLorenteGuarnieri/JuanLorenteGuarnieri/assets/156027298/466397a4-7953-4d04-8371-b82ea5835b6b" alt="unreal engine" width="40" height="40"/> 
-    </a>  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+         </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
@@ -38,18 +37,18 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/JuanLorenteGuarnieri/JuanLorenteGuarnieri/assets/156027298/802ec972-800b-4b0b-8b05-208607e00f9f" alt="three.js" width="40" height="40"/>
     </a>
 
-</p>
 
-<div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLorenteGuarnieri&theme=dark&layout=compact" /></p>
-  
-</div>
+
+</p>
+<p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLorenteGuarnieri&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+
 
   Here you'll find my work and collaborations, reflecting my enthusiasm 🚀 and dedication to learning and growing in this thrilling field. Let's create something amazing together! 
